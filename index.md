@@ -1,12 +1,12 @@
 ## Kevin P Landreneau
 
 337-526-4896 | alibiagent@disroot.org | 1330 Victory Lane, Mamou, LA 70554
-### Markdown
+### Occupation
 
 Network Administration & Residential Repair
 
-```Occupation
-TEST TEXT INSERTION
+```
+## Work History
 Syntax highlighted code block
 
 # Header 1
