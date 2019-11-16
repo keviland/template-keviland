@@ -3,10 +3,8 @@
 337-526-4896 | alibiagent@disroot.org | 1330 Victory Lane, Mamou, LA 70554
 ### Occupation
 Network Administration & Residential Repair
-
+##Work History
 ```
-###History
-
 enfoTek & Solar Systems Technicians
 
 - Bulleted
