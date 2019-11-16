@@ -1,11 +1,9 @@
 ## Kevin P Landreneau
 
-337-526-4896 | 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+337-526-4896 | alibiagent@disroot.org | 1330 Victory Lane, Mamou, LA 70554
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Network Administration & Residential Repair
 
 ```markdown
 Syntax highlighted code block
