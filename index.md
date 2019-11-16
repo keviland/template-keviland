@@ -1,8 +1,7 @@
-##Kevin P Landrenea
+### Kevin P Landreneau
 337-526-4896 | keviland@icloud.com 
-  180 McNeely Road<br>
-  Anacoco, LA  70403</center>
-  
+  180 McNeely Road
+  Anacoco, LA  70403
 ### Occupation
 Network Administration & Residential Repair
 ## Professional Experience
