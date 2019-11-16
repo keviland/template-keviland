@@ -1,13 +1,11 @@
-## Kevin P Landreneau
-
+<center>## Kevin P Landreneau<br>
 337-526-4896 | keviland@icloud.com 
-<center>
   180 McNeely Road<br>
   Anacoco, LA  70403</center>
   
 ### Occupation
 Network Administration & Residential Repair
-## Work History
+## Professional Experience
 ```
 enfoTek & Solar Systems Technicians
 
