@@ -1,6 +1,10 @@
 ## Kevin P Landreneau
 
-337-526-4896 | alibiagent@disroot.org | 1330 Victory Lane, Mamou, LA 70554
+337-526-4896 | keviland@icloud.com 
+<center>
+  180 McNeely Road<br>
+  Anacoco, LA  70403</center>
+  
 ### Occupation
 Network Administration & Residential Repair
 ## Work History
