@@ -1,12 +1,10 @@
 ### Kevin P Landreneau
 337-526-4896 keviland@icloud.com <br>
   Anacoco, LA  71403
-
-#### Network Administration & Residential Repair
-### Professional Experience
+##### Network Administration & Residential Repair
 
 #### Solar Systems Techs 
-#####_Network Administration_
+##### _Network Administration_
  July 2007—Current 
 - Solution Planning and Implementation of
 - Residential & Commercial Computer Wired/Wireless
@@ -24,7 +22,7 @@ Lafayette, Louisiana and Surrounding Areas
 
 #### Information Systems Solutions,
 Ville Platte, LA
-Network Administration/Repair Technician
+#####Network Administration/Repair Technician
 July 2006 – July 2007
 Consulted and Configured for Install/Maintenance/Configuration of
 Wired and Wireless Networks, Security, Personal and Business
@@ -33,7 +31,7 @@ Both In-House and On-site
 
 #### James Manuel of Manuel Electronics, Mamou, LA
 Self-employed/Contracted
-IT Admin/Helpdesk
+#####IT Admin/Helpdesk
 August 2005 – August 2006
 Web design, system support, LAN/WiLAN,
 OS installation; medical office management
@@ -41,7 +39,7 @@ system installation; general computer repair; helpdesk
 
 #### Allen Parish School Board, IT Dept., Oberlin, LA
 IT Admin/Helpdesk
-Temp/Contract
+#####Temp/Contract
 June 2004 – August 2004
 Installation and maintenance of LAN, WAN, WiLAN/WAN,
 General OS and hardware troubleshooting and repair
@@ -56,8 +54,8 @@ October 2003 – August 2005 (second of two instances with this employer)
  - Please see below for proficiencies in Federal/State regulations
 
 
-Centennial Peaks Hospital, Louisville, CO
-Facility Medical Clerk/Unit Secretary (4 units)
+####Centennial Peaks Hospital, Louisville, CO
+#####Facility Medical Clerk/Unit Secretary (4 units)
 May 2002 – September 2003
 Patient chart auditing, transcribing physician’s
 Orders to the medical administration record,
