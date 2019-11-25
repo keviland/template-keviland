@@ -1,1 +1,4 @@
 theme: jekyll-theme-modernist
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: "dark"
