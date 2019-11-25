@@ -1,11 +1,12 @@
 ### Kevin P Landreneau
 337-526-4896 keviland@icloud.com <br>
   Anacoco, LA  71403
-### Occupation
-Network Administration & Residential Repair
-## Professional Experience
 
-#### Solar Systems Techs ### ***Network Administration***
+#### Network Administration & Residential Repair
+### Professional Experience
+
+#### Solar Systems Techs
+_Network Administration_
 July 2007—Current 
 - Solution Planning and Implementation of
 - Residential & Commercial Computer Wired/Wireless
@@ -13,8 +14,8 @@ July 2007—Current
 
 
 #### Wow Technologies
-Lafayette, Louisiana
-* (Temp) Network Administration
+###### Lafayette, LA
+_Network Administration_
 January 2008 – August 2008
 Service Level Agreement Maintenance of
 Commercial Computer Systems and Networks
