@@ -45,9 +45,7 @@ aux_links:
     - "//github.com/pmarsceill/just-the-docs"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2019 K.P.LandLICENSE.txt">MIT license.</a>"
-
-
+footer_content: "Copyright &copy; 2017-2019 K Landreneau. Distributed by an <a href=\"LICENSE.txt\">MIT license.</a>"
 
 plugins:
   - jekyll-seo-tag
