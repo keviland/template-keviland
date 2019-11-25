@@ -5,12 +5,11 @@
 Network Administration & Residential Repair
 ## Professional Experience
 
-### Solar Systems Techs
-* Network Administration
+### Solar Systems Techs * Network Administration
 July 2007—Current 
- Solution Planning and Implementation of
-  Residential & Commercial Computer Wired/Wireless
-Networks, Hardware, and Workstations  
+- Solution Planning and Implementation of
+- Residential & Commercial Computer Wired/Wireless
+- Networks, Hardware, and Workstations  
 
 
 ### Wow Technologies
