@@ -5,7 +5,7 @@
 Network Administration & Residential Repair
 ## Professional Experience
 
-# Solar Systems Techs
+### Solar Systems Techs
 * Network Administration
 July 2007—Current 
  Solution Planning and Implementation of
@@ -13,7 +13,7 @@ July 2007—Current
 Networks, Hardware, and Workstations  
 
 
-# Wow Technologies
+### Wow Technologies
 Lafayette, Louisiana
 * (Temp) Network Administration
 January 2008 – August 2008
