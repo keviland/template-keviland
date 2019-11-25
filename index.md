@@ -1,4 +1,6 @@
-### Kevin P Landreneau * Network Administration & Residential Repair337-526-4896 keviland@icloud.com <br>
+### Kevin P Landreneau 
+* Network Administration & Residential Repair
+######337-526-4896 keviland@icloud.com <br>
   Anacoco, LA  71403
  
 
