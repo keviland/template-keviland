@@ -5,9 +5,9 @@
 #### Network Administration & Residential Repair
 ### Professional Experience
 
-#### Solar Systems Techs
-_Network Administration_
-July 2007—Current 
+#### Solar Systems Techs 
+#####_Network Administration_
+ July 2007—Current 
 - Solution Planning and Implementation of
 - Residential & Commercial Computer Wired/Wireless
 - Networks, Hardware, and Workstations  
@@ -47,13 +47,13 @@ Installation and maintenance of LAN, WAN, WiLAN/WAN,
 General OS and hardware troubleshooting and repair
 
 #### Physical Therapy Services of Church Point
-IT Admin, Clinic Assistant
+##### _IT Admin, Clinic Assistant_
 October 2003 – August 2005 (second of two instances with this employer)
-- Insurance billing 
-- Transcription - ortho/clinical Dictaphone progress notes,
-- Supervising patient treatment plans
-- Performing treatment under the direction of Clinician. 
-Please see below for proficiencies in Federal/State regulations
+ - Insurance billing 
+ - Transcription - ortho/clinical Dictaphone progress notes,
+ - Supervising patient treatment plans
+ - Performing treatment under the direction of Clinician. 
+ - Please see below for proficiencies in Federal/State regulations
 
 
 Centennial Peaks Hospital, Louisville, CO
